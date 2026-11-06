@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Analyzer & Job Match Optimizer",
+  "description": "Expert ATS resume scanner and job matcher. Identify technical skills, uncover missing skills, calculate honest match scores out of 100, and get concrete resume improvement recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
