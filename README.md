@@ -14,6 +14,12 @@ It analyzes technical skills, identifies skill gaps, estimates job compatibility
 - **Actionable Recommendations:** Receive suggestions for resume improvement.
 - **Custom Job Description:** Analyze resumes against your own job descriptions.
 - **Interactive UI:** Clean and user-friendly interface with role filters.
+- PDF and DOCX Resume Upload
+- Automated Resume Text Extraction
+- Interactive ATS Score Dashboard
+- Detailed Skill Gap Analysis
+- Downloadable Resume Analysis Reports
+- AI-powered Resume Improvement Suggestions
 
 ## 🛠️ Tech Stack
 
@@ -37,10 +43,6 @@ The main objective of ResuMetric ATS is to help candidates understand how well t
 
 ## 🔮 Future Improvements
 
-- Enhanced PDF and DOCX resume processing.
-- Advanced ATS score visualization.
-- Downloadable resume analysis reports.
-- Improved resume optimization recommendations.
 - More job roles and industry-specific analysis.
 
 ## 🔐 Security
